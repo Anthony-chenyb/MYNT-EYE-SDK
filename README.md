@@ -5,6 +5,13 @@
 
 * [Documentation](https://slightech.github.io/MYNT-EYE-SDK)
 
+## Samples
+
+Samples about how to use MYNT EYE camera in some popular projects.
+
+* [MYNT-EYE-OKVIS-Sample](https://github.com/slightech/MYNT-EYE-OKVIS-Sample)
+* [MYNT-EYE-ORB-SLAM2-Sample](https://github.com/slightech/MYNT-EYE-ORB-SLAM2-Sample)
+
 ## Archives
 
 This section provides archived and obsolete versions of the MYNT EYE SDK.
