@@ -47,7 +47,7 @@ This section provides archived and obsolete versions of the MYNT EYE SDK.
   </tr>
   <tr>
     <td>Windows</td>
-    <td></td>
+    <td>MSVC</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.1/mynteye-1.1-win-x64.tar.gz">mynteye-1.1-win-x64.tar.gz</a></td>
     <td>42.81 MB</td>
     <td>a96cba813670c9ea31ae1723113ad444</td>
