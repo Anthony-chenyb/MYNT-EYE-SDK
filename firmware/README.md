@@ -11,6 +11,12 @@ About how to upgrade firmware, please see [Tutorials](https://slightech.github.i
     <td>MD5</td>
   </tr>
   <tr>
+    <td>setup.exe</td>
+    <td></td>
+    <td>58.45 MB</td>
+    <td>6f704fd1bbd6d44808f2d989cf78fbe2</td>
+  </tr>
+  <tr>
     <td>mynteye_0102_1708101513.img</td>
     <td>0102</td>
     <td>131.59 KB</td>
