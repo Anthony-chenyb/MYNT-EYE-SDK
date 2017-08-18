@@ -1,4 +1,6 @@
 
+![](https://raw.githubusercontent.com/slightech/MYNT-EYE-SDK/master/mynteye.png)
+
 # MYNT EYE SDK
 
 ## Guides
