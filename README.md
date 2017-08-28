@@ -7,6 +7,12 @@
 
 * [Documentation](https://slightech.github.io/MYNT-EYE-SDK)
 
+* [Getting Started](https://slightech.github.io/MYNT-EYE-SDK/getting_started.html)
+    - [Getting Started on Linux](https://slightech.github.io/MYNT-EYE-SDK/getting_started_linux.html)
+    - [Getting Started on macOS](https://slightech.github.io/MYNT-EYE-SDK/getting_started_mac.html)
+    - [Getting Started on Windows (MSVC)](https://slightech.github.io/MYNT-EYE-SDK/getting_started_win.html)
+    - [Getting Started on Tegra (TX1, TX2)](https://slightech.github.io/MYNT-EYE-SDK/getting_started_tegra.html)
+
 ## Samples
 
 Samples about how to use MYNT EYE camera in some popular projects.
@@ -23,6 +29,8 @@ Integrations let you use the MYNT EYE camera in some different environments.
 ## Archives
 
 This section provides archived and obsolete versions of the MYNT EYE SDK.
+
+On Linux, please download the SDK with the consistent version of GCC, because GCC 5 uses a new ABI by default (see [here](https://gcc.gnu.org/gcc-5/changes.html#libstdcxx)). You can run `gcc --version` to see your GCC version.
 
 Here are missing things on some platforms, marked with `×`.
 
@@ -49,6 +57,51 @@ Here are missing things on some platforms, marked with `×`.
     <td>×</td>
     <td></td>
     <td>×</td>
+  </tr>
+</table>
+
+### Release 1.3
+
+<table>
+  <tr>
+    <td colspan="3">Platform</td>
+    <td>Package Size</td>
+    <td>MD5 Checksum</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td>GCC4</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.3/mynteye-1.3-linux-x64-gcc4.tar.gz">mynteye-1.3-linux-x64-gcc4.tar.gz</a></td>
+    <td>27.31 MB</td>
+    <td>dad4dc41a206e31a35f382af87f0c2f9</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td>GCC5</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.3/mynteye-1.3-linux-x64-gcc5.tar.gz">mynteye-1.3-linux-x64-gcc5.tar.gz</a></td>
+    <td>27.34 MB</td>
+    <td>51ef7e0027a9d8ea789bd46f5e39a83c</td>
+  </tr>
+  <tr>
+    <td>macOS</td>
+    <td></td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.3/mynteye-1.3-mac-x64.tar.gz">mynteye-1.3-mac-x64.tar.gz</a></td>
+    <td>16.86 MB</td>
+    <td>64a761df96b923115f3bc2d3bbd39b86</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td>MSVC</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.3/mynteye-1.3-win-x64.tar.gz">mynteye-1.3-win-x64.tar.gz</a></td>
+    <td>42.83 MB</td>
+    <td>38608f0749eb63be562590236ed445ea</td>
+  </tr>
+  <tr>
+    <td>Tegra</td>
+    <td>TX1/TX2</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.3/mynteye-1.3-tegra-aarch64-gcc5.tar.gz">mynteye-1.3-tegra-aarch64-gcc5.tar.gz</a></td>
+    <td>5.34 MB</td>
+    <td>de9449fa3debf23e764e8367706b47cc</td>
   </tr>
 </table>
 
