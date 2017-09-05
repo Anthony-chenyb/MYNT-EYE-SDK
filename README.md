@@ -63,6 +63,23 @@ Here are missing things on some platforms, marked with `×`.
   </tr>
 </table>
 
+### Release 1.4 (Alpha)
+
+<table>
+  <tr>
+    <td colspan="3">Platform</td>
+    <td>Package Size</td>
+    <td>MD5 Checksum</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td>GCC5</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-linux-x64-gcc5.tar.gz">mynteye-1.4-linux-x64-gcc5.tar.gz</a></td>
+    <td>27.34 MB</td>
+    <td>134d8fec015da931a9549b878f561606</td>
+  </tr>
+</table>
+
 ### Release 1.3
 
 <table>
