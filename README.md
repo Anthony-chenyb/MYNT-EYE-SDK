@@ -78,6 +78,37 @@ Here are missing things on some platforms, marked with `×`.
     <td>27.34 MB</td>
     <td>134d8fec015da931a9549b878f561606</td>
   </tr>
+  <tr>
+    <td rowspan="2">macOS</td>
+    <td rowspan="2"></td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-mac-x64-opencv-3.2.0.tar.gz">mynteye-1.4-mac-x64-opencv-3.2.0.tar.gz</a></td>
+    <td>16.92 MB</td>
+    <td>7a491ca23e66f56c4130de7993e49881</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-mac-x64-opencv-2.4.13.3.tar.gz">mynteye-1.4-mac-x64-opencv-2.4.13.3.tar.gz</a></td>
+    <td>16.91 MB</td>
+    <td>7c8a4cfd1dd1622c37419cd3797d3da9</td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td>MSVC</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-win-x64-opencv-3.2.0.tar.gz">mynteye-1.4-win-x64-opencv-3.2.0.tar.gz</a></td>
+    <td>42.81 MB</td>
+    <td>1e31c3bd2017505d77cfa7af975115c7</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Tegra</td>
+    <td rowspan="2">TX1/TX2</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-tegra-aarch64-gcc5-opencv-3.2.0.tar.gz">mynteye-1.4-tegra-aarch64-gcc5-opencv-3.2.0.tar.gz</a></td>
+    <td>5.41 MB</td>
+    <td>bb8b8be6f941cf7c0b310e562a7f4f54</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-tegra-aarch64-gcc5-opencv-2.4.13.1.tar.gz">mynteye-1.4-tegra-aarch64-gcc5-opencv-2.4.13.1.tar.gz</a></td>
+    <td>5.42 MB</td>
+    <td>e56ff71b93da527f18e7423d5ed4db1b</td>
+  </tr>
 </table>
 
 ### Release 1.3
