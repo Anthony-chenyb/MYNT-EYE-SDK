@@ -63,7 +63,7 @@ Here are missing things on some platforms, marked with `×`.
   </tr>
 </table>
 
-### Release 1.4 (Alpha)
+### Release 1.4
 
 <table>
   <tr>
@@ -72,11 +72,28 @@ Here are missing things on some platforms, marked with `×`.
     <td>MD5 Checksum</td>
   </tr>
   <tr>
-    <td>Linux</td>
-    <td>GCC5</td>
-    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-linux-x64-gcc5.tar.gz">mynteye-1.4-linux-x64-gcc5.tar.gz</a></td>
-    <td>27.34 MB</td>
-    <td>134d8fec015da931a9549b878f561606</td>
+    <td rowspan="2">Linux</td>
+    <td rowspan="2">GCC4</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-linux-x64-gcc4-opencv-3.2.0.tar.gz">mynteye-1.4-linux-x64-gcc4-opencv-3.2.0.tar.gz</a></td>
+    <td>27.37 MB</td>
+    <td>3fd956808f2de50b1e88a6dc168acaec</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-linux-x64-gcc4-opencv-2.4.13.3.tar.gz">mynteye-1.4-linux-x64-gcc4-opencv-2.4.13.3.tar.gz</a></td>
+    <td>27.37 MB</td>
+    <td>00f61690fbb1a2eed4b3a0681c723b66</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Linux</td>
+    <td rowspan="2">GCC5</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-linux-x64-gcc5-opencv-3.2.0.tar.gz">mynteye-1.4-linux-x64-gcc5-opencv-3.2.0.tar.gz</a></td>
+    <td>27.4 MB</td>
+    <td>4b3afeb551fbed0983f9f1b06eb87ff6</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-linux-x64-gcc5-opencv-2.4.13.3.tar.gz">mynteye-1.4-linux-x64-gcc5-opencv-2.4.13.3.tar.gz</a></td>
+    <td>27.4 MB</td>
+    <td>6e1db5b30280f7162a86a066e219f6a1</td>
   </tr>
   <tr>
     <td rowspan="2">macOS</td>
