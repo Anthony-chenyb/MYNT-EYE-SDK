@@ -108,11 +108,16 @@ Here are missing things on some platforms, marked with `×`.
     <td>7c8a4cfd1dd1622c37419cd3797d3da9</td>
   </tr>
   <tr>
-    <td>Windows</td>
-    <td>MSVC</td>
+    <td rowspan="2">Windows</td>
+    <td rowspan="2">MSVC</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-win-x64-opencv-3.2.0.exe">mynteye-1.4-win-x64-opencv-3.2.0.exe</a></td>
+    <td>43.33 MB</td>
+    <td>50c32be46b7c8129c974fb6fe4dbae3d</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-win-x64-opencv-3.2.0.tar.gz">mynteye-1.4-win-x64-opencv-3.2.0.tar.gz</a></td>
     <td>42.81 MB</td>
-    <td>1e31c3bd2017505d77cfa7af975115c7</td>
+    <td>cc7380e8ead643c5f01d21ddd87e35c1</td>
   </tr>
   <tr>
     <td rowspan="2">Tegra</td>
