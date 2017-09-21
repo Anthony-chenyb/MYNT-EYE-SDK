@@ -1,7 +1,39 @@
 
 # Firmwares
 
-About how to upgrade firmware, please see [Tutorials](https://slightech.github.io/MYNT-EYE-SDK/tutorials.html).
+About how to upgrade firmware, please see [Tutorials](https://slightech.github.io/MYNT-EYE-SDK/tutorials.html). Here are the firmwares:
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Version</td>
+    <td>Size</td>
+    <td>MD5</td>
+  </tr>
+  <tr>
+    <td>mynteye_0102_1708101513.img</td>
+    <td>0102</td>
+    <td>131.59 KB</td>
+    <td>86ef4069eee6b96bf5325cae8809b904</td>
+  </tr>
+  <tr>
+    <td>mynteye_0101_1706151738.img</td>
+    <td>0101</td>
+    <td>132.53 KB</td>
+    <td>49041624e6dca608e0c6610a5ba16a21</td>
+  </tr>
+  <tr>
+    <th colspan="4">Special Builds</th>
+  </tr>
+  <tr>
+    <td>mynteye_0103_for_slam.img</td>
+    <td>0103<br />25 fps, 500 Hz</td>
+    <td>129.21 KB</td>
+    <td>85158ef5b55f618e8f0ea674be8bc3b1</td>
+  </tr>
+</table>
+
+`setup.exe` is a application used for upgrading firmware, available on Windows 7, 8 and 10.
 
 <table>
   <tr>
@@ -16,21 +48,14 @@ About how to upgrade firmware, please see [Tutorials](https://slightech.github.i
     <td>58.45 MB</td>
     <td>6f704fd1bbd6d44808f2d989cf78fbe2</td>
   </tr>
-  <tr>
-    <td>mynteye_0102_1708101513.img</td>
-    <td>0102</td>
-    <td>131.59 KB</td>
-    <td>86ef4069eee6b96bf5325cae8809b904</td>
-  </tr>
-  <tr>
-    <td>mynteye_0101_1706151738.img</td>
-    <td>0101</td>
-    <td>132.53 KB</td>
-    <td>49041624e6dca608e0c6610a5ba16a21</td>
-  </tr>
 </table>
 
 ## Release Notes
+
+### 0103 for SLAM
+
+* A test version specially built for SLAM, such as VINS etc.
+    - The frame rate is 25 fps, and the IMU frequency is 500 Hz.
 
 ### 0102
 
