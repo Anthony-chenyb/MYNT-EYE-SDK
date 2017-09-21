@@ -63,6 +63,40 @@ Here are missing things on some platforms, marked with `×`.
   </tr>
 </table>
 
+### Release 1.5 (Alpha)
+
+<table>
+  <tr>
+    <td colspan="3">Platform</td>
+    <td>Package Size</td>
+    <td>MD5 Checksum</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Linux</td>
+    <td rowspan="2">GCC4</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-linux-x64-gcc4-opencv-3.2.0.tar.gz">mynteye-1.5-linux-x64-gcc4-opencv-3.2.0.tar.gz</a></td>
+    <td>27.37 MB</td>
+    <td>30a675c405d6118b88fa3b1964d6d3d6</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-linux-x64-gcc4-opencv-2.4.13.3.tar.gz">mynteye-1.5-linux-x64-gcc4-opencv-2.4.13.3.tar.gz</a></td>
+    <td>27.38 MB</td>
+    <td>07f084096527630b9c446248c8ff0933</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Linux</td>
+    <td rowspan="2">GCC5</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-linux-x64-gcc5-opencv-3.2.0.tar.gz">mynteye-1.5-linux-x64-gcc5-opencv-3.2.0.tar.gz</a></td>
+    <td>27.4 MB</td>
+    <td>374f56650f84f045af26962e39e6fbb4</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-linux-x64-gcc5-opencv-2.4.13.3.tar.gz">mynteye-1.5-linux-x64-gcc5-opencv-2.4.13.3.tar.gz</a></td>
+    <td>27.41 MB</td>
+    <td>f6bd1e439e98200261faf01b890a8ff3</td>
+  </tr>
+</table>
+
 ### Release 1.4
 
 <table>
