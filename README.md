@@ -3,9 +3,14 @@
 
 # MYNT EYE SDK
 
-## Guides
+## [Getting Started](https://slightech.github.io/MYNT-EYE-SDK/getting_started.html)
 
-* [Documentation](https://slightech.github.io/MYNT-EYE-SDK)
+Download the SDK in "[Archives](https://github.com/slightech/MYNT-EYE-SDK#archives)" section, according to your OS. Then extract it and follow the "README" in the folder, or follow these online docs to setup it:
+
+* [Getting Started on Linux](https://slightech.github.io/MYNT-EYE-SDK/getting_started_linux.html)
+* [Getting Started on macOS](https://slightech.github.io/MYNT-EYE-SDK/getting_started_mac.html)
+* [Getting Started on Windows (MSVC)](https://slightech.github.io/MYNT-EYE-SDK/getting_started_win.html)
+* [Getting Started on Tegra (TX1, TX2)](https://slightech.github.io/MYNT-EYE-SDK/getting_started_tegra.html)
 
 ## Samples
 
@@ -13,6 +18,7 @@ Samples about how to use MYNT EYE camera in some popular projects.
 
 * [MYNT-EYE-OKVIS-Sample](https://github.com/slightech/MYNT-EYE-OKVIS-Sample)
 * [MYNT-EYE-ORB-SLAM2-Sample](https://github.com/slightech/MYNT-EYE-ORB-SLAM2-Sample)
+* [MYNT-EYE-VINS-Sample](https://github.com/slightech/MYNT-EYE-VINS-Sample)
 
 ## Integrations
 
@@ -20,14 +26,17 @@ Integrations let you use the MYNT EYE camera in some different environments.
 
 * [MYNT-EYE-ROS-Wrapper](https://github.com/slightech/MYNT-EYE-ROS-Wrapper)
 
-## Getting Started
+## [Documentation](https://slightech.github.io/MYNT-EYE-SDK)
 
-Download and unzip the SDK in "Archives" section according to your OS. Then follow the "README" in SDK directory or these online docs to setup it:
-
-* [Getting Started on Linux](https://slightech.github.io/MYNT-EYE-SDK/getting_started_linux.html)
-* [Getting Started on macOS](https://slightech.github.io/MYNT-EYE-SDK/getting_started_mac.html)
-* [Getting Started on Windows (MSVC)](https://slightech.github.io/MYNT-EYE-SDK/getting_started_win.html)
-* [Getting Started on Tegra (TX1, TX2)](https://slightech.github.io/MYNT-EYE-SDK/getting_started_tegra.html)
+* [SDK Introduction](https://slightech.github.io/MYNT-EYE-SDK/index.html)
+* [Getting Started](https://slightech.github.io/MYNT-EYE-SDK/getting_started.html)
+* [Tutorials](https://slightech.github.io/MYNT-EYE-SDK/tutorials.html)
+    - [How to calibrate camera with OpenCV](https://slightech.github.io/MYNT-EYE-SDK/calibrate_with_opencv.html)
+    - [How to calibrate camera and IMU with Kalibr](https://slightech.github.io/MYNT-EYE-SDK/calibrate_with_kalibr.html)
+    - [How to upgrade firmware](https://slightech.github.io/MYNT-EYE-SDK/upgrade_firmware.html)
+* [API Documentation](https://slightech.github.io/MYNT-EYE-SDK/annotated.html)
+* [FAQ & Issues](https://slightech.github.io/MYNT-EYE-SDK/faq.html)
+* [Release Notes](https://slightech.github.io/MYNT-EYE-SDK/release_notes.html)
 
 ## Archives
 
