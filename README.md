@@ -20,11 +20,17 @@ Samples about how to use MYNT EYE camera in some popular projects.
 * [MYNT-EYE-ORB-SLAM2-Sample](https://github.com/slightech/MYNT-EYE-ORB-SLAM2-Sample)
 * [MYNT-EYE-VINS-Sample](https://github.com/slightech/MYNT-EYE-VINS-Sample)
 
+Please use "Special Builds" firmwares that are more suitable for these projects.
+
 ## Integrations
 
 Integrations let you use the MYNT EYE camera in some different environments.
 
 * [MYNT-EYE-ROS-Wrapper](https://github.com/slightech/MYNT-EYE-ROS-Wrapper)
+
+## [Firmwares](https://github.com/slightech/MYNT-EYE-SDK/tree/master/firmware)
+
+Firmwares are [here](https://github.com/slightech/MYNT-EYE-SDK/tree/master/firmware). If run with SLAM, "Special Builds" are more suitable.
 
 ## [Documentation](https://slightech.github.io/MYNT-EYE-SDK)
 
