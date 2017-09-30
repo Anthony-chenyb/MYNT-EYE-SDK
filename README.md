@@ -78,7 +78,7 @@ Here are missing things on some platforms, marked with `×`.
   </tr>
 </table>
 
-### Release 1.5 (Alpha)
+### Release 1.5
 
 <table>
   <tr>
@@ -90,25 +90,61 @@ Here are missing things on some platforms, marked with `×`.
     <td rowspan="2">Linux</td>
     <td rowspan="2">GCC4</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-linux-x64-gcc4-opencv-3.2.0.tar.gz">mynteye-1.5-linux-x64-gcc4-opencv-3.2.0.tar.gz</a></td>
-    <td>27.37 MB</td>
-    <td>30a675c405d6118b88fa3b1964d6d3d6</td>
+    <td>27.93 MB</td>
+    <td>d50b0f0becc8fb9291aa6944092aac64</td>
   </tr>
   <tr>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-linux-x64-gcc4-opencv-2.4.13.3.tar.gz">mynteye-1.5-linux-x64-gcc4-opencv-2.4.13.3.tar.gz</a></td>
-    <td>27.38 MB</td>
-    <td>07f084096527630b9c446248c8ff0933</td>
+    <td>27.94 MB</td>
+    <td>5a3c31c7c586fe1b7568f87a49321b8c</td>
   </tr>
   <tr>
     <td rowspan="2">Linux</td>
     <td rowspan="2">GCC5</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-linux-x64-gcc5-opencv-3.2.0.tar.gz">mynteye-1.5-linux-x64-gcc5-opencv-3.2.0.tar.gz</a></td>
-    <td>27.4 MB</td>
-    <td>374f56650f84f045af26962e39e6fbb4</td>
+    <td>27.97 MB</td>
+    <td>af4f36d8a6d7c02aa04654f918eeef1c</td>
   </tr>
   <tr>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-linux-x64-gcc5-opencv-2.4.13.3.tar.gz">mynteye-1.5-linux-x64-gcc5-opencv-2.4.13.3.tar.gz</a></td>
-    <td>27.41 MB</td>
-    <td>f6bd1e439e98200261faf01b890a8ff3</td>
+    <td>27.97 MB</td>
+    <td>29d719034cfae5cd971901ad1cb9eb18</td>
+  </tr>
+  <tr>
+    <td rowspan="2">macOS</td>
+    <td rowspan="2"></td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-mac-x64-opencv-3.2.0.tar.gz">mynteye-1.5-mac-x64-opencv-3.2.0.tar.gz</a></td>
+    <td>17.49 MB</td>
+    <td>4f148b1def28377e5366ebbd1ea7c42e</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-mac-x64-opencv-2.4.13.3.tar.gz">mynteye-1.5-mac-x64-opencv-2.4.13.3.tar.gz</a></td>
+    <td>17.47 MB</td>
+    <td>29c32ea7367b57136037d6a5fb14c785</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Windows</td>
+    <td rowspan="2">MSVC</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-win-x64-opencv-3.2.0.exe">mynteye-1.5-win-x64-opencv-3.2.0.exe</a></td>
+    <td>43.99 MB</td>
+    <td>8b4c6d13d66a56f6effb9b8c6e9ca8b2</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-win-x64-opencv-3.2.0.tar.gz">mynteye-1.5-win-x64-opencv-3.2.0.tar.gz</a></td>
+    <td>43.48 MB</td>
+    <td>d03d91a004a8e091e8a09b6b7157cad7</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Tegra</td>
+    <td rowspan="2">TX1/TX2</td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-tegra-aarch64-gcc5-opencv-3.2.0.tar.gz">mynteye-1.5-tegra-aarch64-gcc5-opencv-3.2.0.tar.gz</a></td>
+    <td>5.98 MB</td>
+    <td>e6be07ea9a61d2cc2481dbf6ad300733</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-tegra-aarch64-gcc5-opencv-2.4.13.1.tar.gz">mynteye-1.5-tegra-aarch64-gcc5-opencv-2.4.13.1.tar.gz</a></td>
+    <td>5.98 MB</td>
+    <td>a4e6d108ff826b4e605b6d1adefc3b21</td>
   </tr>
 </table>
 
