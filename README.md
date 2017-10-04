@@ -44,6 +44,8 @@ Firmwares are [here](https://github.com/slightech/MYNT-EYE-SDK/tree/master/firmw
 * [FAQ & Issues](https://slightech.github.io/MYNT-EYE-SDK/faq.html)
 * [Release Notes](https://slightech.github.io/MYNT-EYE-SDK/release_notes.html)
 
+> [PDF](https://github.com/slightech/MYNT-EYE-SDK/raw/master/doc/mynteye-apidoc-1.5.pdf)
+
 ## Archives
 
 This section provides archived and obsolete versions of the MYNT EYE SDK.
