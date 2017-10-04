@@ -31,6 +31,8 @@ alt="mynt-eye-orbslam2-sample" width="240" height="180" border="10" /></a>
 <a href="https://www.youtube.com/embed/yLm2m2P6-a4" target="_blank"><img src="http://img.youtube.com/vi/yLm2m2P6-a4/0.jpg"
 alt="mynt-eye-vins-sample" width="240" height="180" border="10" /></a>
 
+> Video links for mainland China: [Video1](https://v.qq.com/x/page/z0555rye6zq.html) [Video2](https://v.qq.com/x/page/z0555wwlot3.html) [Video3](https://v.qq.com/x/page/g05558aekb1.html).
+
 ## Integrations
 
 Integrations let you use the MYNT EYE camera in some different environments.
