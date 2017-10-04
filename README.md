@@ -22,6 +22,15 @@ Samples about how to use MYNT EYE camera in some popular projects.
 
 Please use "Special Builds" firmwares that are more suitable for these projects.
 
+### Videos
+
+<a href="https://www.youtube.com/embed/MB3Fxkj32a8" target="_blank"><img src="http://img.youtube.com/vi/MB3Fxkj32a8/0.jpg"
+alt="mynt-eye-okvis-sample" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/embed/Z9K0L5jiVYY" target="_blank"><img src="http://img.youtube.com/vi/Z9K0L5jiVYY/0.jpg"
+alt="mynt-eye-orbslam2-sample" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/embed/yLm2m2P6-a4" target="_blank"><img src="http://img.youtube.com/vi/yLm2m2P6-a4/0.jpg"
+alt="mynt-eye-vins-sample" width="240" height="180" border="10" /></a>
+
 ## Integrations
 
 Integrations let you use the MYNT EYE camera in some different environments.
