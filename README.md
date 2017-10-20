@@ -54,8 +54,10 @@ Firmwares are [here](https://github.com/slightech/MYNT-EYE-SDK/tree/master/firmw
 * [API Documentation](https://slightech.github.io/MYNT-EYE-SDK/annotated.html)
 * [FAQ & Issues](https://slightech.github.io/MYNT-EYE-SDK/faq.html)
 * [Release Notes](https://slightech.github.io/MYNT-EYE-SDK/release_notes.html)
+* [Appendix: Build Platforms](https://slightech.github.io/MYNT-EYE-SDK/appendix_build_platforms.html)
+* [Appendix: Test Results](https://slightech.github.io/MYNT-EYE-SDK/appendix_test_results.html)
 
-> [PDF](https://github.com/slightech/MYNT-EYE-SDK/raw/master/doc/mynteye-apidoc-1.5.pdf)
+> [PDF](https://github.com/slightech/MYNT-EYE-SDK/raw/master/doc/mynteye-apidoc-1.5.1.pdf)
 
 ## Archives
 
@@ -100,7 +102,7 @@ Here are missing things on some platforms, marked with `×`.
     <td>MD5 Checksum</td>
   </tr>
   <tr>
-    <td rowspan="2">Linux</td>
+    <td rowspan="4">Linux</td>
     <td rowspan="2">GCC4</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-linux-x64-gcc4-opencv-3.2.0.tar.gz">mynteye-1.5-linux-x64-gcc4-opencv-3.2.0.tar.gz</a></td>
     <td>27.93 MB</td>
@@ -112,7 +114,6 @@ Here are missing things on some platforms, marked with `×`.
     <td>5a3c31c7c586fe1b7568f87a49321b8c</td>
   </tr>
   <tr>
-    <td rowspan="2">Linux</td>
     <td rowspan="2">GCC5</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.5/mynteye-1.5-linux-x64-gcc5-opencv-3.2.0.tar.gz">mynteye-1.5-linux-x64-gcc5-opencv-3.2.0.tar.gz</a></td>
     <td>27.97 MB</td>
@@ -170,7 +171,7 @@ Here are missing things on some platforms, marked with `×`.
     <td>MD5 Checksum</td>
   </tr>
   <tr>
-    <td rowspan="2">Linux</td>
+    <td rowspan="4">Linux</td>
     <td rowspan="2">GCC4</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-linux-x64-gcc4-opencv-3.2.0.tar.gz">mynteye-1.4-linux-x64-gcc4-opencv-3.2.0.tar.gz</a></td>
     <td>27.37 MB</td>
@@ -182,7 +183,6 @@ Here are missing things on some platforms, marked with `×`.
     <td>00f61690fbb1a2eed4b3a0681c723b66</td>
   </tr>
   <tr>
-    <td rowspan="2">Linux</td>
     <td rowspan="2">GCC5</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.4/mynteye-1.4-linux-x64-gcc5-opencv-3.2.0.tar.gz">mynteye-1.4-linux-x64-gcc5-opencv-3.2.0.tar.gz</a></td>
     <td>27.4 MB</td>
@@ -240,14 +240,13 @@ Here are missing things on some platforms, marked with `×`.
     <td>MD5 Checksum</td>
   </tr>
   <tr>
-    <td>Linux</td>
+    <td rowspan="2">Linux</td>
     <td>GCC4</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.3/mynteye-1.3-linux-x64-gcc4.tar.gz">mynteye-1.3-linux-x64-gcc4.tar.gz</a></td>
     <td>27.31 MB</td>
     <td>dad4dc41a206e31a35f382af87f0c2f9</td>
   </tr>
   <tr>
-    <td>Linux</td>
     <td>GCC5</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.3/mynteye-1.3-linux-x64-gcc5.tar.gz">mynteye-1.3-linux-x64-gcc5.tar.gz</a></td>
     <td>27.34 MB</td>
@@ -285,14 +284,13 @@ Here are missing things on some platforms, marked with `×`.
     <td>MD5 Checksum</td>
   </tr>
   <tr>
-    <td>Linux</td>
+    <td rowspan="2">Linux</td>
     <td>GCC4</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.2/mynteye-1.2-linux-x64-gcc4.tar.gz">mynteye-1.2-linux-x64-gcc4.tar.gz</a></td>
     <td>27.3 MB</td>
     <td>6802f5ef5b3fb8215a6cbad8489cb058</td>
   </tr>
   <tr>
-    <td>Linux</td>
     <td>GCC5</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.2/mynteye-1.2-linux-x64-gcc5.tar.gz">mynteye-1.2-linux-x64-gcc5.tar.gz</a></td>
     <td>27.33 MB</td>
@@ -337,14 +335,13 @@ Here are missing things on some platforms, marked with `×`.
     <td>MD5 Checksum</td>
   </tr>
   <tr>
-    <td>Linux</td>
+    <td rowspan="2">Linux</td>
     <td>GCC4</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.1/mynteye-1.1-linux-x64-gcc4.tar.gz">mynteye-1.1-linux-x64-gcc4.tar.gz</a></td>
     <td>27.28 MB</td>
     <td>2733b307330fc49b4b26ae75a6abbadd</td>
   </tr>
   <tr>
-    <td>Linux</td>
     <td>GCC5</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.1/mynteye-1.1-linux-x64-gcc5.tar.gz">mynteye-1.1-linux-x64-gcc5.tar.gz</a></td>
     <td>27.32 MB</td>
@@ -375,14 +372,13 @@ Here are missing things on some platforms, marked with `×`.
     <td>MD5 Checksum</td>
   </tr>
   <tr>
-    <td>Linux</td>
+    <td rowspan="2">Linux</td>
     <td>GCC4</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.0/mynteye-1.0-linux-x64-gcc4.tar.gz">mynteye-1.0-linux-x64-gcc4.tar.gz</a></td>
     <td>27.26 MB</td>
     <td>84184f75f5ca8970ed446abc6287bdbe</td>
   </tr>
   <tr>
-    <td>Linux</td>
     <td>GCC5</td>
     <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.0/mynteye-1.0-linux-x64-gcc5.tar.gz">mynteye-1.0-linux-x64-gcc5.tar.gz</a></td>
     <td>27.22 MB</td>
