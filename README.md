@@ -65,7 +65,7 @@ This section provides archived and obsolete versions of the MYNT EYE SDK.
 
 On Linux, please download the SDK with the consistent version of GCC, because GCC 5 uses a new ABI by default (see [here](https://gcc.gnu.org/gcc-5/changes.html#libstdcxx)). You can run `gcc --version` to see your GCC version.
 
-Here are missing things on some platforms, marked with `×`.
+Here are missing things on some platforms, marked with `N/A`.
 
 <table>
   <tr>
@@ -80,16 +80,16 @@ Here are missing things on some platforms, marked with `×`.
   <tr>
     <td>Tegra</td>
     <td>TX1/TX2</td>
-    <td>×</td>
+    <td>N/A</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Linux</td>
     <td>AArch64</td>
-    <td>×</td>
+    <td>N/A</td>
     <td></td>
-    <td>×</td>
+    <td>N/A</td>
   </tr>
 </table>
 
