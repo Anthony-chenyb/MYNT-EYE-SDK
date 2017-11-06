@@ -19,6 +19,7 @@ Samples about how to use MYNT EYE camera in some popular projects.
 * [MYNT-EYE-OKVIS-Sample](https://github.com/slightech/MYNT-EYE-OKVIS-Sample)
 * [MYNT-EYE-ORB-SLAM2-Sample](https://github.com/slightech/MYNT-EYE-ORB-SLAM2-Sample)
 * [MYNT-EYE-VINS-Sample](https://github.com/slightech/MYNT-EYE-VINS-Sample)
+* [MYNT-EYE-VIORB-Sample](https://github.com/slightech/MYNT-EYE-VIORB-Sample)
 
 Please use "25 fps 500 Hz" firmware that is more suitable for these projects.
 
