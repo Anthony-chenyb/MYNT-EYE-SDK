@@ -11,6 +11,12 @@ About how to upgrade firmware, please see [Tutorials](https://slightech.github.i
     <td>MD5</td>
   </tr>
   <tr>
+    <td>mynteye_0104_1711031837.img</td>
+    <td>0104</td>
+    <td>136.48 KB</td>
+    <td>837675c714ab6cf1109b5c17ad34b1c6</td>
+  </tr>
+  <tr>
     <td>mynteye_0102_1708101513.img</td>
     <td>0102</td>
     <td>131.59 KB</td>
@@ -51,6 +57,13 @@ About how to upgrade firmware, please see [Tutorials](https://slightech.github.i
 </table>
 
 ## Release Notes
+
+### 0104
+
+* Add camera control features.
+    - Control framerate & IMU frequency: 50 fps 500 Hz, 25 fps 500 Hz, 10 fps 200 Hz.
+    - Control gain, brightness, contrast and auto-exposure.
+    - Request zero drift calibration.
 
 ### 0103 for SLAM
 
