@@ -157,7 +157,7 @@ Here are missing things on some platforms, marked with `N/A`.
     <td>111b3b6300739c51ab0d3d9d35c8c2e7</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.7/mynteye-1.7-tegra-aarch64-gcc5-opencv-2.4.13.1.tar.gz">mynteye-1.6-tegra-aarch64-gcc5-opencv-2.4.13.1.tar.gz</a></td>
+    <td><a href="https://github.com/slightech/MYNT-EYE-SDK/blob/master/1.x/1.7/mynteye-1.7-tegra-aarch64-gcc5-opencv-2.4.13.1.tar.gz">mynteye-1.7-tegra-aarch64-gcc5-opencv-2.4.13.1.tar.gz</a></td>
     <td>2.38 MB</td>
     <td>2767c79b6f8c4ae84433b5a93cebbe8f</td>
   </tr>
