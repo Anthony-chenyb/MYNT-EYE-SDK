@@ -11,6 +11,12 @@ About how to upgrade firmware, please see [Tutorials](https://slightech.github.i
     <td>MD5</td>
   </tr>
   <tr>
+    <td>mynteye_0105_1711181427.img</td>
+    <td>0105</td>
+    <td>137.82 KB</td>
+    <td>9b48050e8599493c261ff6b0645c3eb8</td>
+  </tr>
+  <tr>
     <td>mynteye_0104_1711031837.img</td>
     <td>0104</td>
     <td>136.48 KB</td>
@@ -57,6 +63,11 @@ About how to upgrade firmware, please see [Tutorials](https://slightech.github.i
 </table>
 
 ## Release Notes
+
+### 0105
+
+* Add camera control features.
+    - Control max-gain, max-brightness and desired-brightness when auto-exposure is enabled.
 
 ### 0104
 
